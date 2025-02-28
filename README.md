@@ -6,4 +6,5 @@ Welcome to shCatch, a premium products only app.
 - Platform decoration done by you to elevate product marketing.
 
 Give it a go... and add a 🌟.
+
 Tech stack: Express JS, EJS, Tailwind, MongoDB
